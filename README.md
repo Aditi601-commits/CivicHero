@@ -3,41 +3,41 @@ Using advanced Google Gemini AI, the app automatically analyzes photographs of h
 
 Key Features:
 
-  Instant "Shake-to-Report" Background Service
+  1. Instant "Shake-to-Report" Background Service
   
-  Gemini AI Smart Image Analysis & Autofill
+  2. Gemini AI Smart Image Analysis & Autofill
   
-  Interactive Live Google Maps Dashboard
+  3. Interactive Live Google Maps Dashboard
   
-  Multi-Media Attachments
+  4. Multi-Media Attachments
   
-  Gamified Leaderboard & Profiles
+  5. Gamified Leaderboard & Profiles
   
-  Dual-Language Localization (English & Hindi)
+  6. Dual-Language Localization (English & Hindi)
   
-  Fully supports seamless runtime switching between English and Hindi, ensuring accessibility for diverse socio-economic communities.
+  7. Fully supports seamless runtime switching between English and Hindi, ensuring accessibility for diverse socio-economic communities.
 
 
 Technologies Used:
 
-  Kotlin & Coroutines: Written entirely in Kotlin, leveraging structured concurrency with Coroutines and Flow for smooth async processing.
+  1. Kotlin & Coroutines: Written entirely in Kotlin, leveraging structured concurrency with Coroutines and Flow for smooth async processing.
   
-  Jetpack Compose: Modern, declarative UI framework with fluid, Material 3-compliant styling, dynamic color adjustments, and beautiful edge-to-edge screens.
+  2. Jetpack Compose: Modern, declarative UI framework with fluid, Material 3-compliant styling, dynamic color adjustments, and beautiful edge-to-edge screens.
   
-  Room Database (SQLite): Handles high-performance offline caching, local data persistence, user profile states, and robust offline report generation.
+  3. Room Database (SQLite): Handles high-performance offline caching, local data persistence, user profile states, and robust offline report generation.
   
-  OkHttp3: Manages high-efficiency REST network communication to external API gateways.
+  4. OkHttp3: Manages high-efficiency REST network communication to external API gateways.
   
-  Coil (Compose Image Loading): Offers asynchronous, cached, and performant remote image loading for Unsplash-based presets and reported hazard attachments.
+  5. Coil (Compose Image Loading): Offers asynchronous, cached, and performant remote image loading for Unsplash-based presets and reported hazard attachments.
 
 
 Google Technologies Utilized:
 
-Google Gemini API (gemini-2.5-flash)
+1. Google Gemini API (gemini-2.5-flash)
 
-Google Maps SDK for Android (Jetpack Compose Extension)
+2. Google Maps SDK for Android (Jetpack Compose Extension)
 
-Google Identity Services (Simulation Design)
+3. Google Identity Services (Simulation Design)
 
 
 <div align="center">
